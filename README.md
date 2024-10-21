@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akanshaaaaaaa
+- 👋 Hi, I’m @Akansha
 - 👀 I’m interested in learning,develoving and creating new ideas in the field of Computer Science.
 - 🌱 I’m currently learning DSA using C and Java.
 
