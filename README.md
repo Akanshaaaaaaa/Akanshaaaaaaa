@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @Akansha
-- 👀 I’m interested in learning,develoving and creating new ideas in the field of Computer Science.
-- 🌱 I’m currently learning DSA using C and Java.
 
+- 👀 I'm a beginner who's passionate about **Data Science**and **Machine Learning, and im excited to learn and grow in these fields.
+  
+- 🌱 Skills:
+- JAVA
+- C
+- PYTHON(BASICS)
+- DBMS(BASICS)
 
-- 😄 Pronouns: SHE/HER
-- ⚡ Fun fact: I love singing!
+- 😄 Pronouns: SHE/HE
+  
+- ⚡ Fun fact: If I'm not coding,I'm probably practicing singing!
 
 <!---
 Akanshaaaaaaa/Akanshaaaaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
