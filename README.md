@@ -8,7 +8,7 @@
 - PYTHON(BASICS)
 - DBMS(BASICS)
 
-- 😄 Pronouns: SHE/HE
+- 😄 Pronouns: SHE
   
 - ⚡ Fun fact: If I'm not coding,I'm probably practicing singing!
 
